@@ -1,2 +1,3 @@
 111111
-select * from 
+select * from
+book where id=1
